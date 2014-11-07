@@ -10,7 +10,7 @@ begin
 
 	begin#Loop added for error handling
 
-		print  "\nTemperautre choices, please enter the entire word of at least two letters 
+		print  "\nTemperature choices, please enter the entire word of at least two letters 
 						\n ~(Ce)lsius, \n ~(Fa)hrenheit, \n ~(Ra)nkine, \n ~(De)lisle, \n ~(Ne)wton, \n ~(Re)aumur, \n ~(Ro)mer \n or ~(Ke)lvin
 							\nPlease enter your current temperture type(From the list above): "
 
