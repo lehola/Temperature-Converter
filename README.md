@@ -1,4 +1,4 @@
 Temperature-Converter
 =====================
 
-A Temperature-Converter that runs in the terminal
+A Temperature Converter tool that runs in the terminal.
